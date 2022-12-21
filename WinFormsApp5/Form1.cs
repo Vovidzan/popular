@@ -45,6 +45,7 @@ namespace WinFormsApp5
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
             MessageBox.Show(comboBox2.Text);
+	    MessageBox.Show(comboBox2.Text);
         }
 
         private void listBox1_DoubleClick(object sender, EventArgs e)
